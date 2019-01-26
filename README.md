@@ -11,7 +11,7 @@
 
 ## Snapshots
 ### Login panel
-...this is the login interface.
+   this is the login interface.
 ![](software%20snapshots/login%20panel.PNG)
 
 ![](software%20snapshots/employee%20panel.PNG)

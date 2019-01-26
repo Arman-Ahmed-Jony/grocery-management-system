@@ -1,3 +1,15 @@
+# Grocery Management System
+
+## Table of Content
+  * General Information
+  * Technologies
+  * Snapshots
+
+## General Information
+
+## Technologies
+
+## Snapshots
 ![](software%20snapshots/login%20panel.PNG)
 ![](software%20snapshots/employee%20panel.PNG)
 ![](software%20snapshots/POS%20panel.PNG)
